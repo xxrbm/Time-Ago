@@ -1,0 +1,25 @@
+{
+  "name": "time-ago",
+  "version": "1.0.0",
+  "authors": [
+    "xxrbm <worteldzgn@gmail.com>"
+  ],
+  "description": "A simple jQuery plugin to convert YYYY-MM-DD time to Time ago",
+  "main": "dist/time-ago.js",
+  "keywords": [
+    "blogger",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/xxrbm/time-ago",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}

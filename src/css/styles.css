@@ -1,0 +1,36 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+time {
+    font-size: 14px;
+    color: #ababab;
+}
+
+h2 {
+    font-size: 28px;
+    margin: 0;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 600px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background: #fff;
+    padding: 25px;
+    margin: 50px 10px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
