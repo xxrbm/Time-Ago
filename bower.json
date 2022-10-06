@@ -1,6 +1,7 @@
 {
   "name": "time-ago",
   "version": "1.0.0",
+  "homepage": "https://github.com/xxrbm/time-ago",
   "authors": [
     "xxrbm <worteldzgn@gmail.com>"
   ],
@@ -11,7 +12,6 @@
     "plugin"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/xxrbm/time-ago",
   "ignore": [
     "**/.*",
     "node_modules",
